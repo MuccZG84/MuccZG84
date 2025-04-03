@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuccZG84
+- 👋 Hi, I’m Vladimir Mucak
 - 👀 I’m interested in ...FrontEnd development
 - 🌱 I’m currently learning ...JS
 - 💞️ I’m looking to collaborate on ...anything to gain experience
