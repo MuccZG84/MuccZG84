@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vladimir Mucak
 - 👀 I’m interested in ...FrontEnd development
-- 🌱 I’m currently learning ...JS
+- 🌱 I’m currently learning ...React...
 - 💞️ I’m looking to collaborate on ...anything to gain experience
 - 📫 How to reach me ...via mail: vmucak@gmail.com
 - 😄 Pronouns: ...//*
